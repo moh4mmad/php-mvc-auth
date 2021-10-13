@@ -1,4 +1,4 @@
-# About php MVC Auth
+# About PHP MVC Auth
 
 This project contains basic structure for architecture MVC (Model, view & controller) implemented with PHP & MySQL. &#128293;
 
